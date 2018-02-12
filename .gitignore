@@ -3,3 +3,4 @@ node_modules
 less
 scss
 config.js
+.idea/
